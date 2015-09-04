@@ -1,3 +1,6 @@
+Edit Sudeep Pillaij conversion.h to make it work on OpenCV 3.0 with vc 12 on my computer
+
+
 ## NUMPY <=> OpenCV's cv::Mat converter
 [Sudeep Pillai](http://people.csail.mit.edu/spillai) (spillai@csail.mit.edu) Sep 14, 2014
 
